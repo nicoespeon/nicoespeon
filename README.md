@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+👨‍💻 Developer @busbud
+
+🍻 Organize @swcraftmontreal meetups 
+
+🔮 [vscode-abracadabra.com](https://vscode-abracadabra.com) 
+
+💙 #Craft #Tests #Refactoring #LegacyCode
+
 <!--
 **nicoespeon/nicoespeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
