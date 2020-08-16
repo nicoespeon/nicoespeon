@@ -1,26 +1,13 @@
-### Hi there 👋
+# Hi there, welcome 👋
 
-👨‍💻 Developer @busbud
+👨‍💻 My name is **Nicolas Carlo**, I live in Montréal (Canada 🍁) and I'm a Senior Tech Lead at [Busbud](https://busbud.com)
 
-🍻 Organize @swcraftmontreal meetups 
+🍻 I'm really into community events and I organize [Software Crafters Montréal](https://www.meetup.com/fr-FR/Software-Crafters-Montreal/) meetups 
 
-🧭 http://understandlegacycode.com 
+🧭 I frequently share advice to help you deal with **Legacy Code** on my blog [Understand Legacy Code](http://understandlegacycode.com)
 
-🔮 [vscode-abracadabra.com](https://vscode-abracadabra.com) 
+🔮 I'm currently building [Abracadabra, a VS Code extension for intuitive JS/TS refactorings](https://vscode-abracadabra.com) 
 
-💙 I help people build maintainable softwares
+💙 In general, I help people build maintainable softwares
 
-<!--
-**nicoespeon/nicoespeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The best way to reach me out is through Twitter: [@nicoespeon](https://twitter.com/nicoespeon)
