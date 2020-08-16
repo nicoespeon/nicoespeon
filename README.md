@@ -4,9 +4,11 @@
 
 🍻 Organize @swcraftmontreal meetups 
 
+🧭 http://understandlegacycode.com 
+
 🔮 [vscode-abracadabra.com](https://vscode-abracadabra.com) 
 
-💙 #Craft #Tests #Refactoring #LegacyCode
+💙 I help people build maintainable softwares
 
 <!--
 **nicoespeon/nicoespeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
