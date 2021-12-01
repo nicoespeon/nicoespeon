@@ -1,6 +1,10 @@
 # Hi there, welcome 👋
 
-👨‍💻 My name is **Nicolas Carlo** and **I help people build maintainable softwares**
+My name is **Nicolas Carlo** and I help people build maintainable softwares!
+
+**📍 My current BIG project => [refactoringjavascript.dev](https://refactoringjavascript.dev)**
+
+## About me
 
 I live in Montréal (Canada 🍁) and I'm a Senior Developer at [Centered](https://centered.app)
 
@@ -8,6 +12,6 @@ I'm really into community events 🍻 and I organize [Software Crafters Montré
 
 I frequently share advice to help you deal with **Legacy Code** on my blog [Understand Legacy Code](http://understandlegacycode.com). I even published on book to share the techniques that work best: [Legacy Code: First Aid Kit](https://understandlegacycode.com/first-aid-kit) ⛑
 
-I'm currently building [Abracadabra, a VS Code extension for intuitive JS/TS refactorings](https://vscode-abracadabra.com) 🔮 
+I'm the author of [Abracadabra, a VS Code extension for intuitive JS/TS refactorings](https://vscode-abracadabra.com) 🔮 
 
 The best way to reach me out is through Twitter: [@nicoespeon](https://twitter.com/nicoespeon)
