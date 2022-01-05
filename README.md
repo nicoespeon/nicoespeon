@@ -2,8 +2,6 @@
 
 My name is **Nicolas Carlo** and I help people build maintainable softwares!
 
-**📍 My current BIG project => [refactoringjavascript.dev](https://refactoringjavascript.dev)**
-
 ## About me
 
 I live in Montréal (Canada 🍁) and I'm a Senior Developer at [Centered](https://centered.app)
