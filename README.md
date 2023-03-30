@@ -10,6 +10,6 @@ I'm really into community events 🍻 and I organize the [Software Crafters](ht
 
 I frequently share advice to help you deal with **Legacy Code** on my blog [Understand Legacy Code](http://understandlegacycode.com). I even published on book to share the techniques that work best: [Legacy Code: First Aid Kit](https://understandlegacycode.com/first-aid-kit) ⛑
 
-I'm the author of [Abracadabra, a VS Code extension for intuitive JS/TS refactorings](https://vscode-abracadabra.com) 🔮 
+I'm the author of [Abracadabra, a VS Code extension for intuitive JS/TS refactorings](https://github.com/nicoespeon/abracadabra) 🔮 
 
 The best way to reach me out is through Twitter: [@nicoespeon](https://twitter.com/nicoespeon)
